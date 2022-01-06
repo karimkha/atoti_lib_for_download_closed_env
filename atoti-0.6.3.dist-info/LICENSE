@@ -1,0 +1,197 @@
+ATOTI
+Free community edition LICENSE AGREEMENT
+Version 0.6.3
+
+This free community end user license agreement ("EULA") is entered into by and between You ("END USER") acting as a legal representative of a business entity ("END CUSTOMER") and Quartet Financial Systems, Inc., d.b.a ActiveViam, a company registered under the laws of the State of Delaware in the United States of America, with office located at 550 7th Avenue, 19th Floor, New York, New York 10018, United States of America ("ActiveViam") and governs the use by End User of ATOTI version 0.6.3, a tool composed of a set of libraries, extensions such as JupyterLab extension, and its documentation that allows the development of rapid decision-making applications based on a large volume of datasets, developed by ActiveViam (the "SOFTWARE").
+
+By requesting to have access to the Software, downloading or using the Software, End User acknowledges that he/she and End Customer has understood and agreed with the terms of this EULA.
+If End Customer does not accept these terms, End User must not use the Software.
+
+End Customer and ActiveViam are hereinafter individually or collectively referred to as the "PARTY (IES)".
+
+#. Purpose & description of the Software
+
+   #. The EULA sets out the terms and conditions under which End User may install the Software from a library package and/or use the Software on a royalty-free basis.
+      In order to run the Software, End User must install a java virtual machine (JVM).
+      For convenience purposes, the Software includes the JVM provided by OpenJDK in the downloadable package.
+      OpenJDK is licensed under the GPLv2 with classpath exception license https://openjdk.java.net/legal/gplv2+ce.html.
+
+   #. The Software can be downloaded via third party platforms such as, but not limited to, https://pypi.org/ or via ActiveViam’s servers. The features and functionalities of the Software are listed on the Software’s website at https://atoti.io/ (the "Site").
+
+#. Limited community edition
+
+   #. The Software is provided for the restricted usage authorized herein.
+      It may not include all features and functionalities found in any future version of the Software.
+      It is also possible that some of the features and functionalities included in the current version of the Software may be removed from future versions of the Software or that some use cases authorized for this version may not apply to future versions.
+
+   #. The Software is made available exclusively for the purpose of demonstrating the possibilities offered by the Software so End Customer can evaluate the possibilities and potential of the Software.
+
+#. License Grant
+
+   #. Provided that End User complies with all terms and conditions of this EULA, ActiveViam grants End Customer a personal, limited, revocable, worldwide, non-exclusive, non-transferable, royalty-free license during the Term to download, install and/or use the Software solely and exclusively for the uses permitted under this EULA.
+      Notwithstanding the above, End User may share access to the Results (as defined below) with up to one Viewer (as defined below) and make the Software available through a virtual machine.
+
+   #. End User may use the Software exclusively to develop models and to test the Software functionalities and features included in this version such as for proof of concept purposes ("NON-PRODUCTION ENVIRONMENT").
+      Development of visualizations and any similar content creations is permitted use for the Non-Production Environment and allowed for one (1) developer ("BUILDER").
+      The use of the Software for visualization is allowed for 1 (one) viewer that can connect to the application created using the Software in a Non-Production Environment ("VIEWERS").
+      Software may not be used for any other purposes, including but not limited to commercial or for-profit purposes.
+
+   #. If End User wishes to use the Software in a production environment for uses other than Non-Production Environment (e.g. for any business operations) ("Production Environment"), End User must send an email to ActiveViam describing the use case in the Production Environment at the following address: contact@atoti.io.
+      ActiveViam will acknowledge and confirm that End User may use the Software in Production Environment by email and may add certain restrictions / conditions to this authorization.
+      If ActiveViam does not respond within ten (10) business days from End User's request, ActiveViam is deemed to have denied use of the Software in the Production Environment.
+
+   #. Regarding any other elements generated as part of the use of the Software such as the models or dashboards created (the "Results"), they cannot in any event be used for more than the number of Viewers indicated herein without subscribing to an Enterprise Edition License Agreement.
+
+   #. This EULA includes the right to display and copy the Software and the Results solely for the purposes authorized herein above.
+
+   #. When End User downloads the Software, End User is provided with the executable code of the Software. End User understands that no source code is provided.
+
+   #. The Software does not include any authentication or user access control system.
+      End User / End Customer is not authorized to use or add any external software, hardware or programming method to implement an authentication or user access control layer to the Software.
+      This feature is available in ATOTI+, the enterprise edition of the Software (see section 7 below).
+
+   #. End User may make one copy of the Software in machine readable form for backup / security purposes only, provided that the backup copy must include all proprietary notices contained in the original Software package.
+
+#. Ownership - Restrictions
+
+   #. The EULA does not convey any assignment of rights to End User or End Customer on the Software. ActiveViam owns or has all the title, copyright and other intellectual property rights in the Software.
+
+   #. Regarding Results, End User is also granted a right to use such Results as provided under this EULA. However, such Results are not assigned to the End Customer.
+
+   #. End User may not and will not allow a third party to:
+
+      #. reverse engineer, decompile, disassemble, or otherwise attempt to discover / have access to the source code or algorithms of the Software,
+      #. adapt, modify, translate, disable any features and functionality of, the Software / the Results, or create derivative works based on the Software/ the Results,
+      #. distribute, share, timeshare, transfer, sell, rent, lease, lend, grant a security interest in, use for service bureau purposes, sublicense or send the Software / Results or make available the Software or its functionalities to any other End User aside from Viewers,
+      #. remove, modify, or conceal any product identification, copyright, proprietary, intellectual property notices or other marks on or within the Software,
+      #. use the Software in any manner not expressly authorized by this EULA, such as develop a product which is competitive with any ActiveViam product or services offerings.
+
+#. Software Support
+
+   #. ActiveViam will not provide any support or maintenance services under this EULA or any other professional services except as offered on a discretionary basis.
+      End Customer acknowledges that ActiveViam has no express or implied obligation to announce or make available any updates, enhancements, modifications, revisions, or additions to the Software and that this EULA does not give End Customer any rights in or to any of the foregoing.
+      Support and maintenance are available under an enterprise edition license of the Software (see section 7 below).
+
+   #. ActiveViam or its affiliates may release from time to time Software updates/new versions.
+      This EULA also applies to all and any component, patch, app and add-on of the Software that ActiveViam may make available on the Site, unless ActiveViam provides supplemental or additional license terms along with such release.
+      Availability of a Software release or new Freemium version may terminate this EULA at ActiveViam’s discretion.
+
+   #. To access such Software’s release or new Freemium version, End Customer must accept to be bound with the terms of the then applicable EULA.
+      In addition, such release or new Community edition may require an access to the internet, an updated version of the browser or to upgrade other Software dependencies (such as Java, Python, anaconda, node, etc.) and additional storage space on the device used to download the Software.
+      Failing to meet these criteria may result in the failing to download or install the release or new community edition version.
+
+   #. If necessary and requested in writing by End User, ActiveViam will provide available interface information needed to achieve interoperability between the Software and another software or application.
+
+#. Software’s improvements
+
+   #. For the purpose of improving the Software and for statistical and analytical purposes, ActiveViam has integrated a telemetry feature in the Software that, if enabled, automatically collects the following information:
+
+      #. when a session is created, from where (geo location based on the IP address)
+      #. method call/API usage
+      #. data size/data structure
+      #. error messages, stack traces
+      #. up time
+
+   #. ActiveViam also associates a random unique ID for each installation of the Software and session to track the number of installations and how many sessions are run by installation without direct or indirect identification of the End-User concerned.
+
+   #. ActiveViam will not access at any time the data processed by the Software nor information to identify the End-User. If the Software runs offline, no information is reported to ActiveViam.
+
+   #. If End-User does not want this information to be uploaded to ActiveViam, End-User can disable this feature from the Software by following the procedure available on the Site.
+
+#. Upgrade to the ATOTI+ version of the Software
+
+   #. End User may upgrade the Software to an enterprise edition of the Software ("ATOTI+") allowing them to download the ATOTI+ extensions.
+
+   #. Except for evaluation licenses that can be granted through registration and a click-through evaluation license, use of ATOTI+ is subject to the execution by End Customer of a separate paid license agreement with ActiveViam instead of this EULA.
+
+#. Term and Termination
+
+   #. The Software can be used for a period of 100 (hundred) days from the date of the Software’s release (the "Term").
+      At the end of the Term, End-User must upgrade to a more recent version of the Software.
+      In the absence of a Software’s release before the end of the Term, the Term will be extended until a new version is released.
+
+   #. ActiveViam may terminate this EULA at any time by informing End User (if End User has provided his/her contact information) or deciding so when making available a Software release or new community edition.
+
+   #. The rights under this EULA will terminate automatically without notice and without compensation from ActiveViam if End User / End Customer fails to comply with any of the terms and conditions of this EULA, notwithstanding ActiveViam’s right to claim damages.
+
+   #. The EULA will also terminate if and when End User deletes / erases the Software and any copy made of it.
+
+   #. At the end of the Term, End User must cease all use of the Software and erase all copies of the Software, the Results and releases.
+
+#. Data Protection
+
+   #. ActiveViam and the End Customer undertake to comply with the applicable regulation on data privacy depending on the location of End-Users (the "Data Privacy Regulation").
+
+   #. The End User exercises total control over the uses he/she makes of the Software, therefore End Customer fully and exclusively bears the responsibility of all processing activities of any personal data that may be carried out using the Software.
+
+   #. If contact information is provided by End User, ActiveViam shall process this data in compliance with its privacy policy.
+      Access and use of the Site is subject to a privacy policy and terms of use available at the following addresses https://atoti.io/privacy-policy and https://atoti.io/terms.
+
+#. Warranty
+
+   #. THE SOFTWARE IS PROVIDED "AS IS" AND ON AN "AS AVAILABLE" BASIS.
+      ACTIVEVIAM HEREBY EXPRESSLY EXCLUDES, TO THE FULLEST EXTENT PERMISSIBLE BY LAW, ALL WARRANTIES, REPRESENTATIONS, GUARANTEES, CONDITIONS AND TERMS, OTHER THAN THOSE EXPRESSLY SET OUT IN THIS EULA, SUCH AS THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR FREE, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, WHETHER EXPRESS OR IMPLIED BY STATUTE, COMMON LAW, COURSE OF DEALING, TRADE USAGE OR OTHERWISE AND WHETHER WRITTEN OR ORAL, INCLUDING BUT NOT LIMITED TO ANY WARRANTY AS TO THE ACCURACY AND ADEQUACY OF ANY RESULTS GENERATED THROUGH USE OF THE SOFTWARE.
+      END-CUSTOMER BEARS AND ASSUMES THE ENTIRE RISK AS TO THE RESULTS AND PERFORMANCE OF THE SOFTWARE AND/OR THE USE IT MAKES OR ANY RELIANCE ON THE RESULTS.
+
+   #. END-CUSTOMER HEREBY REPRESENTS THAT IT SHALL (I) COMPLY WITH ALL APPLICABLE LOCAL AND FOREIGN LAWS AND REGULATIONS WHICH MAY GOVERN THE USE OF THE SOFTWARE AND DOCUMENTATION, AND (II) USE THE SOFTWARE AND DOCUMENTATION ONLY FOR LAWFUL PURPOSES AND IN ACCORDANCE WITH THE TERMS OF THIS EULA.
+      END-CUSTOMER SHALL INDEMNIFY AND HOLD ACTIVEVIAM ITS AFFILIATES, MANAGERS AND ADVISORS, AND EACH OF THEIR OFFICERS, DIRECTORS, SHAREHOLDERS, PARTNERS, EMPLOYEES, REPRESENTATIVES, AGENTS AND ATTORNEYS (INDEMNIFIED PARTIES) HARMLESS AGAINST ANY TROUBLE, CLAIM, EVICTION, DAMAGES OR PROTEST IN CASE OF BREACH OF ANY OBLIGATION OF THE EULA HARMLESS FROM ANY AND ALL LOSSES, LIABILITIES, OBLIGATIONS, CLAIMS, CONTINGENCIES, DAMAGES, REASONABLE COSTS AND EXPENSES, INCLUDING ALL JUDGMENTS, AMOUNTS PAID IN SETTLEMENTS, COURT COSTS AND REASONABLE ATTORNEYS’ FEES AND COSTS OF INVESTIGATION THAT ANY INDEMNIFIED PARTY MAY SUFFER OR INCUR AS A RESULT OF OR RELATING TO ANY BREACH BY END-CUSTOMER OF THE REPRESENTATIONS HEREIN.
+
+#. Limited Liability
+
+   #. NOTHING IN THIS EULA SHALL BE DEEMED TO EXCLUDE, RESTRICT OR LIMIT LIABILITY OF EITHER PARTY (OR THEIR RESPECTIVE AGENTS OR SUB-CONTRACTORS) FOR DEATH OR PERSONAL INJURY RESULTING FROM THEIR NEGLIGENCE OR ANY LIABILITY FOR FRAUDULENT MISREPRESENTATION.
+
+   #. SUBJECT TO SECTION 11.1, ACTIVEVIAM (INCLUDING ITS RESPECTIVE AGENTS AND SUB-CONTRACTORS) SHALL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING OUT OF OR RELATING TO THE USE OR THE INABILITY TO USE THE SOFTWARE, RESULTS OR ANY THIRD PARTY APPLICATION, ITS CONTENT OR FUNCTIONALITY, INCLUDING BUT NOT LIMITED TO DAMAGED CAUSES BY OR RELATED TO ERRORS, OMISSIONS, INTERRUPTIONS, DEFECTS, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS, FAILURE TO CONNECT, NETWORK CHARGES, IN-APP PURCHASES, AND ALL OTHER DIRECT, INDIRECT, MORAL, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES OR ANY OTHER DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO LOSS ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE OR RESULTS WHETHER OR NOT CAUSED BY OR RESULTING FROM ITS NEGLIGENCE OR A BREACH OF ITS STATUTORY DUTIES OR A BREACH OF ITS OBLIGATIONS HOWSOEVER CAUSED EVEN IF ACTIVEVIAM IS ADVISED OF THE POSSIBILITY OF SUCH LOSS.
+      ACTIVEVIAM WILL NOT BE RESPONSIBLE FOR ANY DAMAGE CAUSED BY END-CUSTOMER, END-USER, ITS EMPLOYEES, SUBCONTRACTORS OR ANY THIRD PARTIES.
+
+   #. SUBJECT TO SECTION 11.1, ACTIVEVIAM SHALL ONLY BE LIABLE FOR DIRECT DAMAGES AND IN NO EVENT SHALL ACTIVEVIAM (INCLUDING ITS RESPECTIVE AGENTS AND SUB-CONTRACTORS) BE LIABLE FOR:
+
+      #. ANY LOSS OF REVENUES OR PROFITS, LOSS, CORRUPTION OR DAMAGED OF DATA, COST OF COVER, BUSINESS INTERRUPTION, LOSS OF USE, LOSS OF CONTRACTS, LOSS OF GOODWILL (WHETHER DIRECT OR INDIRECT); OR
+      #. ANY INDIRECT OR CONSEQUENTIAL LOSSES OF ANY NATURE WHATSOEVER; OR
+      #. ANY FAILURE OF THE SOFTWARE DUE TO ANY INTEGRATION OR INTEROPERABILITY ISSUES ARISING WITH ANY THIRD PARTY OR END CUSTOMER SYSTEMS OR LEGACY SYSTEMS UNLESS EXPRESSLY SET OUT TO THE CONTRARY;
+      #. WHETHER OR NOT CAUSED BY OR RESULTING FROM ITS NEGLIGENCE OR A BREACH OF ITS STATUTORY DUTIES OR A BREACH OF ITS OBLIGATIONS HOWSOEVER CAUSED EVEN IF IT IS ADVISED OF THE POSSIBILITY OF SUCH LOSS.
+      #. ANY DAMAGES OR LOSS MUST BE NOTIFIED IN WRITING TO ACTIVEVIAM WITHIN FIFTEEN (15) DAYS OF ITS OCCURRENCE, FAILURE TO DO SO EXTINGUISHES SUCH CLAIM.
+
+   #. SOME STATES/COUNTRIES MAY NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN WHOLE OR IN PART, SO THE ABOVE LIMITATION MAY NOT APPLY IN ITS ENTIRETY TO USERS IN THOSE JURISDICTIONS SHALL BE APPLICABLE TO THE MAXIMUM EXTENT PERMISSIBLE.
+      IF ANY COURT OF COMPETENT JURISDICTIONS DETERMINES THAT ACTIVEVIAM IS OBLIGATED TO WARRANT THE PERFORMANCE OF THE SOFTWARE NOTWITHSTANDING THAT IS HAS BEEN PROVIDED TO END-CUSTOMER HEREUNDER FREE OF CHARGE, END-CUSTOMER’S EXCLUSIVE REMEDY SHALL BE THAT ACTIVEVIAM WILL REPAIR OR REPLACE THE SOFTWARE WITH ALTERNATIVE SOFTWARE REASONABLY SIMILAR TO THE SOFTWARE.
+
+   #. END-CUSTOMER ACKNOWLEDGES AND AGREES THAT ACTIVEVIAM WOULD NOT BE ABLE TO PROVIDE THE SOFTWARE ON A NO-FEE BASIS WITHOUT SUCH LIMITATIONS.
+
+#. Third Party Application including Open Source
+
+   #. End User agrees that third party applications, software or programs, including solutions offered on an open source mode (the "Third-Party Software") may be required, included with, or downloaded with this Software.
+      ActiveViam makes no representations whatsoever about any of these Third-Party Software, as such Third-Party Software may be subject to open source license provisions.
+      ActiveViam may provide the applicable open source licenses upon request.
+
+   #. Since ActiveViam has no control over such Third-Party Software, End Customer acknowledges and agrees that ActiveViam is not responsible for such Third-Party Software.
+      End Customer expressly acknowledges and agrees that the use of Third-Party Software is at its sole risk and that the entire risk of unsatisfactory quality, performance, accuracy and effort is borne by End Customer.
+      ActiveViam shall not be responsible or liable, directly or indirectly, for any damage or loss, including but not limited to any damage to or loss of data, caused or alleged to be caused by, or in connection with, use of or reliance on any such Third-Party Software available on or through any such Third-Party Software.
+
+   #. End Customer acknowledges and agrees that the use of any Third-Party Software is governed by such Third-Party Software’s terms, EULA and privacy Policy, or other such agreement and that any information or personal data provided by the End User, whether knowingly or unknowingly, to such Third-Party Software, will be subject to such Third-Party Software’ privacy policy.
+      ActiveViam expressly disclaims any responsibility for any disclosure of information or any other practices of any Third-Party Software.
+      ActiveViam expressly disclaims any warranty regarding whether personal information is captured by any Third-Party Software provider or the use to which such personal information may be put by such Third-Party Software provider. 
+
+#. Assignment and Transfer
+
+   #. End Customer may not assign, delegate, hypothecate, encumbered or otherwise transfer this EULA in whole or in part, or any rights or obligations hereunder (by operation of law, agreement of otherwise), without the prior written consent of ActiveViam to any third party.
+      Any attempt to assign, delegate or otherwise transfer any of End-Customer’s rights or obligations without ActiveViam’s consent shall be void.
+
+   #. In addition, End Customer expressly authorizes ActiveViam to assign the EULA to a subsidiary, or to any company or legal entity, in particular in the context of a merger, divestiture, transfer, partial asset contribution or direct or indirect change of control.
+
+#. General provisions
+
+   #. Export rules.
+      End Customer acknowledges that the Software may be subject to the U.S. Export Administration Regulations and other export laws and regulations, and End Customer will comply with such regulations.
+   #. Non - waiver.
+      Unless otherwise agreed, failure by either Party to exercise any of its rights hereunder or to enforce at any time any provision, term or condition of this EULA will not be deemed or considered a waiver or forfeiture of that Party’s right or ability to enforce such provision, term or condition.
+   #. Severance.
+      If any provision of this EULA (or part of any provision) is held to be void, illegal or otherwise unenforceable by any court of competent jurisdiction, such provision (or part) shall, to the extent necessary to ensure that the remaining provisions of this EULA are not void, illegal or unenforceable, be deemed to be deleted and the validity, legality and/or enforceability of the remaining provisions of this EULA shall not be affected.
+      In such a case, the Parties will do their best efforts to interpret or renegotiate the concerned provision to achieve as nearly as possible the same economic effect of the original provision and remain in line with the Parties’ intentions.
+   #. Compliance.
+      Upon ActiveViam’s written request, the End User will certify in writing that the use of the Software is fully compliant with the terms of this EULA.
+   #. Modifications.
+      The EULA may be modified at any time and without any prior notice.
+      The applicable version of the EULA that governs the use of the Software is the EULA in force when End User downloads the Software and that is enclosed with it.
+      Any modification of the EULA applies to all the elements previously installed and/or generated by End User and overrides any previous version as soon as End User downloads any release.
+   #. This EULA is exclusively governed and construed in accordance with the laws of the State of New-York, United-States of America, without regard to any conflict of law rules, and excluding the application of the United Nations Convention on Contracts for the International Sale of Goods.
+      In order to resolve amicably any dispute that may arise with respect to the interpretation, the performance and/or the termination of this EULA, the Parties agree to meet after the receipt of a notice sent by registered mail by one of the Parties, with the intent to solve any dispute in an amicable way.
+      Failing for the Parties to reach an amicable settlement by executing a settlement agreement within thirty (30) days following the notification by a Party of the existence of the dispute and making an express reference to this provision, the Parties shall submit their dispute to the state and federal courts sitting in New York, New York that will have exclusive jurisdiction to settle the dispute.
